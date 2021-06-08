@@ -1,1 +1,1 @@
-## Second git exercise 
+## Second git exercise at ALX
